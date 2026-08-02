@@ -361,8 +361,6 @@ Educational Android platform designed for students.
 
 # 📂 Featured Repositories
 
-> Replace **Mominul23** with your GitHub username.
-
 | Repository | Description |
 |------------|-------------|
 | ⭐ KnowledgeHub-Showcase | Premium showcase for Knowledge Hub |
