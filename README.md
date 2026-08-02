@@ -361,7 +361,7 @@ Educational Android platform designed for students.
 
 # 📂 Featured Repositories
 
-> Replace **YOUR_USERNAME** with your GitHub username.
+> Replace **Mominul23** with your GitHub username.
 
 | Repository | Description |
 |------------|-------------|
