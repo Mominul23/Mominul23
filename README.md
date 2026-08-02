@@ -148,21 +148,21 @@ https://mrtechlimited.com/app/store
 
 > Replace **YOUR_GITHUB_USERNAME** with your GitHub username.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mominul23\&show_icons=true\&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mominul23\&layout=compact\&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mominul23\&theme=github-dark)
 
 ---
 
 # 📬 Contact
 
-📧 YOUR_EMAIL
+📧 contact@mrtechlimited.com
 
 🌐 https://mrtechlimited.com
 
-💼 YOUR_LINKEDIN_URL
+💼 https://www.linkedin.com/in/md-mominul-islam-56b7b527a/
 
 ---
 
