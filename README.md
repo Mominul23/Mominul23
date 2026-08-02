@@ -411,7 +411,7 @@ Building innovative software solutions for businesses.
 <p align="center">
 
 <img width="540" height="1200" alt="Image" src="https://github.com/user-attachments/assets/11bc46b6-302c-4b91-beb1-d8d6173c6f05" />
-<img width="540" height="1200" alt="Image" src="https://github.com/user-attachments/assets/11bc46b6-302c-4b91-beb1-d8d6173c6f05" />
+<img width="540" height="1200" alt="Image" src="https://github.com/user-attachments/assets/7d4598b0-51e9-4e71-89a8-0aaf6e716fb5" />
 
 </p>
 
