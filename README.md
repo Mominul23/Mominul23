@@ -408,10 +408,13 @@ Building innovative software solutions for businesses.
 
 # 📸 Project Gallery
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/11bc46b6-302c-4b91-beb1-d8d6173c6f05" width="260" alt="Screenshot 1"/>
-  <img src="https://github.com/user-attachments/assets/7d4598b0-51e9-4e71-89a8-0aaf6e716fb5" width="260" alt="Screenshot 2"/>
-</p>
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/11bc46b6-302c-4b91-beb1-d8d6173c6f05" width="250"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/7d4598b0-51e9-4e71-89a8-0aaf6e716fb5" width="250"/>
+
+</div>
 
 ---
 
