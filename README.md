@@ -408,28 +408,10 @@ Building innovative software solutions for businesses.
 
 # 📸 Project Gallery
 
-> Add your project screenshots inside the **assets/screenshots** folder.
-
-```text
-assets/
-│
-├── knowledgehub-home.png
-├── knowledgehub-quiz.png
-├── recharge-dashboard.png
-├── wallet-home.png
-├── smartquiz-home.png
-└── admin-panel.png
-```
-
-Example
-
 <p align="center">
 
-<img width="240" src="assets/screenshots/knowledgehub-home.png">
-
-<img width="240" src="assets/screenshots/recharge-dashboard.png">
-
-<img width="240" src="assets/screenshots/wallet-home.png">
+<img width="540" height="1200" alt="Image" src="https://github.com/user-attachments/assets/11bc46b6-302c-4b91-beb1-d8d6173c6f05" />
+<img width="540" height="1200" alt="Image" src="https://github.com/user-attachments/assets/11bc46b6-302c-4b91-beb1-d8d6173c6f05" />
 
 </p>
 
