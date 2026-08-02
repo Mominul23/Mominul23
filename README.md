@@ -498,7 +498,7 @@ From Android applications to enterprise backend systems, my goal is to deliver s
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mominul23&theme=algolia&no-frame=true&margin-w=12&margin-h=12&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mominul23&theme=tokyonight&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
